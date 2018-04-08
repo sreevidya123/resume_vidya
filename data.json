@@ -1,0 +1,50 @@
+
+{
+  "basics":{
+    "photo":"img.png",
+    "name":"c.sreevidya",
+    "phone":"9886574431",
+    "email":"vidyavizzu23@gmail.com"
+  },
+
+"skills":[
+  {
+    "name":"programming languages",
+    "value":"C,C++,JAVA"
+  },
+  {
+    "name":"operating system",
+    "value":"windows,linux"
+  },
+  {
+    "name":"webtechnologies",
+    "value":"HTML,CSS,JAVA SCRIPT,PHYTHON"
+  }
+],
+"education":[
+  {
+    "course":"btech(computer science engineering)",
+    "college":[
+      "Sri Venkateswara Institute Of Technology",
+      "2015-19",
+      "65%"
+    ]
+  },
+  {
+    "course":"mpc(intermediate)",
+    "college":[
+      "Narayana Junior College",
+      "2013-15",
+      "65%"
+    ]
+  },
+  {
+    "course":"ssc",
+    "college":[
+      "ratnam high school",
+      "2012-13",
+      "65%"
+    ]
+  }
+]
+}
